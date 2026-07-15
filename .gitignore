@@ -6,6 +6,7 @@ node_modules/
 .android-sdk/
 .jdk/
 .gradle-cache/
+.g/
 .gradle-dist/
 android/.gradle/
 android/app/build/
